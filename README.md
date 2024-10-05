@@ -43,7 +43,7 @@ Follow to my Portfolio and applications demonstration ![here](https://github.com
 -->
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://pt.linkedin.com/in/bruno-mourinha-745690173?trk=public_profile_samename-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-mourinha-677597331/)
 
 ## 💻 Tech Stack (Languages/Tools):
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
